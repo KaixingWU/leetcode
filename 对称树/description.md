@@ -4,13 +4,13 @@ Given the root of a binary tree, check whether it is a mirror of itself (i.e., s
 
 Example 1:
 
-/Users/wheremyheartlies/Desktop/leetcode刷题/对称树/symtree1.jpg
+![](https://github.com/KaixingWU/leetcode/blob/main/对称树/symtree1.jpg)
 
 Input: root = [1,2,2,3,4,4,3]
 Output: true
 Example 2:
 
-/Users/wheremyheartlies/Desktop/leetcode刷题/对称树/symtree2.jpg
+![](https://github.com/KaixingWU/leetcode/blob/main/对称树/symtree2.jpg)
 
 Input: root = [1,2,2,null,3,null,3]
 Output: false
